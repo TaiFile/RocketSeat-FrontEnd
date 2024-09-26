@@ -1,13 +1,13 @@
-# Curso de React Native - Rocketseat
+# Curso de ReactJS - Rocketseat
 
-Este curso de **React Native** da Rocketseat é voltado para desenvolvedores que desejam criar aplicativos móveis com tecnologia de desenvolvimento cross-platform. Durante o curso, você aprenderá desde os fundamentos até funcionalidades avançadas, desenvolvendo projetos práticos que simulam cenários reais do mercado.
+Este curso de **ReactJS** da Rocketseat é voltado para desenvolvedores que desejam criar aplicativos móveis com tecnologia de desenvolvimento cross-platform. Durante o curso, você aprenderá desde os fundamentos até funcionalidades avançadas, desenvolvendo projetos práticos que simulam cenários reais do mercado.
 
 ## 📚 Conteúdo do Curso
 
 Os principais tópicos abordados no curso são:
 
 1. **Fundamentos**
-   - Introdução ao React Native, seus princípios e arquitetura.
+   - Introdução ao ReactJS, seus princípios e arquitetura.
    
 2. **Interfaces, Navegação e...**
    - Como criar interfaces de usuário responsivas.
@@ -57,6 +57,4 @@ Ao concluir o curso, você será capaz de:
 - **Visual Studio Code (VSCode)** como editor de código.
 - **Postman** para testes de APIs.
 
----
 
-**Prepare-se para se tornar um desenvolvedor especializado em React Native com a Rocketseat!**
